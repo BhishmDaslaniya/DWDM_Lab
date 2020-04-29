@@ -36,3 +36,6 @@
 
 # Checkpoints
 *.ipynb_checkpoints
+
+# PDF
+*.pdf
